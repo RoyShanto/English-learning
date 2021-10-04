@@ -1,0 +1,14 @@
+.text-style{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    grid-gap: 15px;
+}
+.container{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.teachers-list{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    grid-gap: 15px;
+}

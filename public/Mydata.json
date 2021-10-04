@@ -1,0 +1,72 @@
+[
+    {
+        "id": "1",
+        "name": "English for Beginners",
+        "cost": 25,
+        "lecturer": "Sam Johnson",
+        "img": "./image/1-min.jpg"
+    },
+    {
+        "id": "2",
+        "name": "Speaking English",
+        "cost": 30,
+        "lecturer": "Krishan Roy",
+        "img": "./image/2-min.jpg"
+    },
+    {
+        "id": "3",
+        "name": "Writing English",
+        "cost": 30,
+        "lecturer": "Krishan Roy",
+        "img": "./image/3-min.jpg"
+    },
+    {
+        "id": "4",
+        "name": "English for Kids",
+        "cost": 35,
+        "lecturer": "Sam Johnson",
+        "img": "./image/4-min.jpg"
+    },
+    {
+        "id": "5",
+        "name": "German Club",
+        "cost": 36,
+        "lecturer": "Sam Johnson",
+        "img": "./image/5-min.jpg"
+    },
+    {
+        "id": "6",
+        "name": "Personal Lessons",
+        "cost": 21,
+        "lecturer": "Sam Johnson",
+        "img": "./image/6-min.jpg"
+    },
+    {
+        "id": "7",
+        "name": "Group Lessons",
+        "cost": 35,
+        "lecturer": "Krishan Roy",
+        "img": "./image/7-min.jpg"
+    },
+    {
+        "id": "8",
+        "name": "Online Learning",
+        "cost": 15,
+        "lecturer": "Sam Johnson",
+        "img": "./image/8-min.jpg"
+    },
+    {
+        "id": "9",
+        "name": "English for Business",
+        "cost": 25,
+        "lecturer": "Sam Johnson",
+        "img": "./image/9-min.jpg"
+    },
+    {
+        "id": "10",
+        "name": "IELTS",
+        "cost": 50,
+        "lecturer": "Sam Johnson",
+        "img": "./image/10-min.jpg"
+    }
+]

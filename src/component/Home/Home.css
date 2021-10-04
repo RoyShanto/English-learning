@@ -1,0 +1,14 @@
+.subjects-conatainer{
+    padding-top:50px ;
+    padding-bottom:50px ;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    background-color: #c8cfd9;
+}
+.subjects{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap: 10px;
+    /* margin-left: 50px; */
+    margin-right: 100px;
+}

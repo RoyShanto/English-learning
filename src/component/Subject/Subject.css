@@ -1,0 +1,10 @@
+.cart{
+    width: 350px;
+    border: 2px solid goldenrod;
+    margin-left: 40px;
+    border-radius: 10px;
+    padding:5px;
+}
+.cart:hover{
+    background-color: goldenrod;
+}
