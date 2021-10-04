@@ -1,9 +1,14 @@
 .footer-container{
-    padding-top: 50px;
+    /* padding-top: 50px;
     padding-bottom: 40px;
+    padding-left: 50px;
+    padding-right: 50px; */
+    padding: 50px 50px 40px 50px;
     display: grid;
     grid-template-columns: repeat(3, 1fr);
-    background-color: #c8cfd9;
+    grid-gap: 30px;
+    /* background-color: #c8cfd9; */
+    background-color: #c8cfd9c0;
 }
 .popular-course{
     display: grid;

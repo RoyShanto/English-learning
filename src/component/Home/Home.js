@@ -18,7 +18,28 @@ const Home = () => {
                         data.map(d => <Subject key={d.id} subject={d} />)
                     }
                 </div>
-
+            </div>
+            <div className="trust-container">
+                <br />
+                <h1>59.000+ Clients Trust Us</h1>
+                <div className="trust-section">
+                    <div>
+                        <i className="fas fa-money-check-alt icon"></i><br /><br />
+                        <p className="text">Money Back Guarantee</p>
+                    </div>
+                    <div>
+                        <i className="fas fa-book icon"></i><br /><br />
+                        <p className="text">Full Online Documentation</p>
+                    </div>
+                    <div>
+                        <i className="fas fa-info-circle icon"></i><br /><br />
+                        <p className="text">24 / 7 Highly Rated Support</p>
+                    </div>
+                    <div>
+                        <i className="fas fa-edit icon"></i><br /><br />
+                        <p className="text">Free Lifetime Updates</p>
+                    </div>
+                </div>
             </div>
         </div>
     );

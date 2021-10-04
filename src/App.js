@@ -20,7 +20,7 @@ function App() {
           <Route path="/services"> <Services /> </Route>
           <Route path="/aboutus"> <AboutUs /> </Route>
           <Route path="/contactus"> <ContactUs /> </Route>
-          <Route path="*"> <NotFound /> </Route>
+          <Route exact path="*"> <NotFound /> </Route>
         </Switch>
         <Footer />
       </Router>,

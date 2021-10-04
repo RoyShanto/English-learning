@@ -3,14 +3,15 @@ import './Footer.css'
 const Footer = () => {
     return (
         <div>
-
             <div className="footer-container">
                 <div className="setisfied-student">
                     <h4>10000+ Satisfied Students</h4>
+                    <hr />
                     <p>The staff here is really supportive, teachers are great, the school has a good structure. Thank you!</p>
                 </div>
                 <div>
                     <h4>POPULAR COURSES</h4>
+                    <hr />
                     <div className="popular-course">
                         <div>
                             <p>English for Kids</p>
@@ -20,9 +21,9 @@ const Footer = () => {
                             <p>Group Lessons</p>
                         </div>
                         <div>
-                            <p>$45</p>
-                            <p>$15</p>
                             <p>$35</p>
+                            <p>$15</p>
+                            <p>$36</p>
                             <p>$21</p>
                             <p>$35</p>
                         </div>
@@ -32,6 +33,7 @@ const Footer = () => {
                 </div>
                 <div>
                     <h4>GET IN TOUCH</h4>
+                    <hr />
                     <p>Send a Message</p>
                     <p>Contact</p>
                     <p>Request a Callback</p>

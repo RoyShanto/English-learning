@@ -3,7 +3,6 @@ import { Card } from 'react-bootstrap';
 
 const Teachers = (props) => {
     const { name, img, detail } = props.teachers;
-    console.log(name, img);
     return (
         <Card className="cart">
             <Card.Img variant="top" src={img} height="265px" />

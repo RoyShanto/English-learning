@@ -12,3 +12,17 @@
     /* margin-left: 50px; */
     margin-right: 100px;
 }
+.trust-section{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    padding: 50px 50px 50px 50px;
+}
+.trust-container{
+    background-color: #bcc8daf6;
+}
+.icon{
+    font-size: 40px;
+}
+.text{
+    font-size: 20px;
+}
